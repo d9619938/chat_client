@@ -1,0 +1,1 @@
+/Users/dmitrijbogdanov/IdeaProjects/my-training/new-local-repository/src/com/local/project/exam03/server/file-archive-server/info.txt;information/Users/dmitrijbogdanov/IdeaProjects/my-training/new-local-repository/src/com/local/project/exam03/server/file-archive-server/test01.txt;testirovanie
